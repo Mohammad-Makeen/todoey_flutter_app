@@ -5,7 +5,7 @@
 Understanding how to manage state in Flutter architecture through different choices and learn to use the officially recommended Provider package to manage our app state.
 
 
-## What's New in this App
+## What's new in this app
 
 A todolist app to keep track of all tasks.
 
