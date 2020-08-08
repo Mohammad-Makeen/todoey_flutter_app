@@ -15,13 +15,13 @@ A todolist app to keep track of all tasks.
 
 ## New Skills
 
-- Understand state (Data) and state management (Data Management).
-- Understand the difference between ephemeral (local) state and app state.
-- Problems that come with simply relying on setState().
-- Understand Prop Drilling.
+- Understanding state (Data) and state management (Data Management).
+- Understanding the difference between ephemeral (local) state and app state.
+- Understand the problems that come with simply relying on setState().
+- Understanding Prop Drilling.
 - Examine various popular ways of managing app state for Flutter projects.
-- Learn about the List Builder.
-- Use the Flutter BottomSheet Widget.
-- Learn to lift state up to be able to access it from children widgets.
-- Learn about design patternsl.
-- Understand Provider package usage and management in app state.
+- Learning about the List Builder.
+- Using the Flutter BottomSheet Widget.
+- Learning to lift state up to be able to access it from children widgets.
+- Learning about design patterns.
+- Understanding Provider package usage and management in app state.
