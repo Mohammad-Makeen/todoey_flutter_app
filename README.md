@@ -9,7 +9,9 @@ Understanding how to manage state in Flutter architecture through different choi
 
 A todolist app to keep track of all tasks.
 
-## Todoey App
+## Todoey App Demo
+
+![](todoey-flutter-app.gif)
 
 ## New Skills
 
