@@ -1,15 +1,17 @@
 # Todoey ✓
 
-## Our Goal
+## App Goal
 
-The objective of this tutorial is to understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
+Understanding how to manage state in Flutter architecture through different choices and learn to use the officially recommended Provider package to manage our app state.
 
 
-## What you will create
+## What's New in this App
 
-A todolist app to keep track of all your tasks.
+A todolist app to keep track of all tasks.
 
-## What you will learn
+## Todoey App
+
+## New Skills
 
 - Understand what is state and why we need to manage it.
 - Understand the difference between ephemeral (local) state and app state.
